@@ -1,5 +1,7 @@
 pub fn foo() {
     println!("good code!");
+    println!("bad code!");
+    println!("evil code!");
 }
 
 #[cfg(test)]
