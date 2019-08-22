@@ -1,3 +1,7 @@
+pub fn foo() {
+    println!("YOLO!");
+}
+
 #[cfg(test)]
 mod tests {
     #[test]
