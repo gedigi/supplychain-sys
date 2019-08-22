@@ -1,5 +1,5 @@
 pub fn foo() {
-    println!("YOLO!");
+    println!("EVIL!");
 }
 
 #[cfg(test)]
